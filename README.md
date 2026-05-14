@@ -1,181 +1,71 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <style>
-        @page {
-            size: A4;
-            margin: 15mm;
-            background-color: #ffffff;
-        }
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            color: #24292e;
-            line-height: 1.6;
-            margin: 0;
-            padding: 0;
-        }
-        .header {
-            background: linear-gradient(135deg, #1a2a6c, #b21f1f, #fdbb2d);
-            color: white;
-            padding: 40px 30px;
-            text-align: center;
-            border-radius: 10px;
-            margin-bottom: 30px;
-        }
-        .header h1 {
-            margin: 0;
-            font-size: 28pt;
-            letter-spacing: 1px;
-        }
-        .header p {
-            font-size: 14pt;
-            margin-top: 10px;
-            opacity: 0.9;
-        }
-        .section {
-            margin-bottom: 25px;
-            padding: 0 10px;
-        }
-        .section-title {
-            color: #0366d6;
-            border-bottom: 2px solid #eaecef;
-            padding-bottom: 8px;
-            margin-bottom: 15px;
-            font-size: 18pt;
-            display: flex;
-            align-items: center;
-        }
-        .philosophy {
-            background-color: #f6f8fa;
-            border-left: 5px solid #0366d6;
-            padding: 15px;
-            font-style: italic;
-            margin: 20px 0;
-        }
-        .grid-container {
-            display: block;
-            width: 100%;
-        }
-        .skill-category {
-            margin-bottom: 20px;
-        }
-        .skill-category h3 {
-            font-size: 13pt;
-            margin-bottom: 10px;
-            color: #586069;
-        }
-        .tags {
-            display: block;
-        }
-        .tag {
-            display: inline-block;
-            background-color: #e1ecf4;
-            color: #39739d;
-            padding: 5px 12px;
-            border-radius: 15px;
-            font-size: 10pt;
-            margin: 0 5px 8px 0;
-            border: 1px solid #7aa7c7;
-        }
-        .footer {
-            text-align: center;
-            margin-top: 40px;
-            padding-top: 20px;
-            border-top: 1px solid #eaecef;
-            font-size: 10pt;
-            color: #6a737d;
-        }
-        .highlight {
-            color: #d73a49;
-            font-weight: bold;
-        }
-    </style>
-</head>
-<body>
-    <div class="header">
-        <h1>Soumia NIDIKIN</h1>
-        <p>Ingénieure Data | Experte en Automation RPA & IA Agents</p>
+<div align="center" style="background: linear-gradient(135deg, #fce4ec, #f3e5f5, #e1f5fe); padding: 50px 20px; border-radius: 20px; border: 1px solid #f8bbd0; margin-bottom: 30px;">
+    <h1 style="color: #880e4f; font-family: 'Georgia', serif; font-size: 3rem; margin: 0;">Soumia NIDIKIN 🌸</h1>
+    <p style="color: #4a148c; font-size: 1.5rem; font-style: italic; margin-top: 10px; font-weight: 300;">
+        Ingénieure Data | Experte en Automation RPA & Agents IA
+    </p>
+    <div style="margin-top: 20px;">
+        <a href="TON_LIEN_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+        <a href="mailto:TON_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     </div>
+</div>
 
-    <div class="section">
-        <div class="section-title">À propos de moi</div>
-        <p>
-            Passionnée par l'intersection entre la donnée et l'intelligence artificielle, je me spécialise dans la 
-            <span class="highlight">transformation de processus manuels en systèmes autonomes et intelligents</span>. 
-            Mon expertise combine l'ingénierie de données robuste avec la puissance des agents IA pour créer des solutions 
-            scalables et performantes.
-        </p>
-        <div class="philosophy">
-            "Ma vision : La donnée est le carburant, et l'automation est le moteur. Je construis les systèmes qui font avancer les entreprises vers le futur numérique."
-        </div>
-    </div>
+<h2 style="color: #ad1457; border-bottom: 2px solid #f8bbd0; padding-bottom: 10px;">✨ À propos de moi</h2>
+<p style="font-size: 1.1rem; line-height: 1.8; color: #424242;">
+    Passionnée par l'élégance de la donnée, je suis spécialisée dans la <b>transformation de processus manuels en systèmes autonomes et intelligents</b>. 
+    Mon travail consiste à concevoir des architectures de données robustes tout en intégrant des agents IA pour optimiser l'efficacité opérationnelle. 
+    Je combine une expertise en <b>Data Engineering</b> avec une vision <b>Data Science & Analysis</b> pour transformer chaque information en valeur stratégique.
+</p>
 
-    <div class="section">
-        <div class="section-title">Expertise Technique</div>
-        
-        <div class="skill-category">
-            <h3>🤖 Automatisation & RPA</h3>
-            <div class="tags">
-                <span class="tag">Robot Framework</span>
-                <span class="tag">Power Automate</span>
-                <span class="tag">n8n</span>
-                <span class="tag">UiPath</span>
-            </div>
-        </div>
+<blockquote style="background-color: #fff9f9; border-left: 5px solid #f06292; padding: 15px; font-style: italic; color: #880e4f; margin: 25px 0;">
+    "Ma vision : La donnée est une histoire qui ne demande qu'à être bien racontée par l'automatisation. Je bâtis les fondations de l'entreprise intelligente de demain."
+</blockquote>
 
-        <div class="skill-category">
-            <h3>🧠 Data Science & IA</h3>
-            <div class="tags">
-                <span class="tag">Machine Learning</span>
-                <span class="tag">Deep Learning</span>
-                <span class="tag">NLP</span>
-                <span class="tag">LLMs (Agents Autonomes)</span>
-            </div>
-        </div>
+<h2 style="color: #ad1457; border-bottom: 2px solid #f8bbd0; padding-bottom: 10px;">🎨 Univers Technique</h2>
 
-        <div class="skill-category">
-            <h3>🏗 Data Engineering & Bases de données</h3>
-            <div class="tags">
-                <span class="tag">SQL Server</span>
-                <span class="tag">Oracle (PL/SQL)</span>
-                <span class="tag">MySQL</span>
-                <span class="tag">ETL / Data Warehouse</span>
-            </div>
-        </div>
+<table width="100%" style="border-collapse: collapse; border: none;">
+    <tr>
+        <td width="50%" style="vertical-align: top; border: none; padding: 10px;">
+            <h3 style="color: #6a1b9a;">🤖 Automatisation & RPA</h3>
+            <img src="https://img.shields.io/badge/Robot_Framework-000000?style=flat-square&logo=robotframework&logoColor=white" />
+            <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=microsoftpowerautomate&logoColor=white" />
+            <img src="https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white" />
+            <img src="https://img.shields.io/badge/UiPath-FA4616?style=flat-square&logo=uipath&logoColor=white" />
+        </td>
+        <td width="50%" style="vertical-align: top; border: none; padding: 10px;">
+            <h3 style="color: #6a1b9a;">🧠 Data Science & IA</h3>
+            <img src="https://img.shields.io/badge/Machine_Learning-3776AB?style=flat-square&logo=python&logoColor=white" />
+            <img src="https://img.shields.io/badge/NLP_&_LLMs-4B0082?style=flat-square" />
+            <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+        </td>
+    </tr>
+    <tr>
+        <td width="50%" style="vertical-align: top; border: none; padding: 10px;">
+            <h3 style="color: #6a1b9a;">🏗 Data Engineering</h3>
+            <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+            <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
+            <img src="https://img.shields.io/badge/ETL_/_DWH-FFD700?style=flat-square" />
+            <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        </td>
+        <td width="50%" style="vertical-align: top; border: none; padding: 10px;">
+            <h3 style="color: #6a1b9a;">📊 Visualisation</h3>
+            <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=microsoftpowerbi&logoColor=black" />
+            <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
+            <img src="https://img.shields.io/badge/Excel_Expert-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+        </td
+    </tr>
+</table>
 
-        <div class="skill-category">
-            <h3>💻 Langages & DevOps</h3>
-            <div class="tags">
-                <span class="tag">Python</span>
-                <span class="tag">SQL</span>
-                <span class="tag">Docker</span>
-                <span class="tag">Linux (Ubuntu)</span>
-            </div>
-        </div>
+<h2 style="color: #ad1457; border-bottom: 2px solid #f8bbd0; padding-bottom: 10px;">🎯 Mes Focus Actuels</h2>
+<ul style="font-size: 1.1rem; color: #424242; line-height: 2;">
+    <li>🚀 <b>IA Agents :</b> Développement de systèmes autonomes capables de prendre des décisions en temps réel.</li>
+    <li>🏗 <b>Modern Data Stack :</b> Optimisation de pipelines ETL vers des entrepôts de données cloud.</li>
+    <li>💡 <b>Process Mining :</b> Analyser les processus métiers pour identifier les opportunités d'automatisation.</li>
+</ul>
 
-        <div class="skill-category">
-            <h3>📊 Visualisation & Analyse</h3>
-            <div class="tags">
-                <span class="tag">Power BI</span>
-                <span class="tag">Tableau</span>
-                <span class="tag">Excel (Expert)</span>
-            </div>
-        </div>
-    </div>
+<hr style="border: 0; height: 1px; background: linear-gradient(to right, transparent, #f8bbd0, transparent); margin: 40px 0;">
 
-    <div class="section">
-        <div class="section-title">Objectifs & Intérêts</div>
-        <ul>
-            <li>Développement d'agents IA autonomes pour l'optimisation métier.</li>
-            <li>Conception d'architectures de données modernes et performantes.</li>
-            <li>Exploration continue en Deep Learning et NLP.</li>
-            <li>Analyse prédictive pour la prise de décision stratégique.</li>
-        </ul>
-    </div>
-
-    <div class="footer">
-        🚀 Toujours ouverte à de nouveaux défis technologiques | Casablanca - Tanger, Maroc
-    </div>
-</body>
-</html>
+<div align="center" style="color: #880e4f; font-family: sans-serif;">
+    <p>🌿 <b>Faisons grandir vos projets ensemble</b></p>
+    <p>📍 Basée au Maroc (Casablanca - Tanger)</p>
+    <img src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO_GITHUB&show_icons=true&theme=rose&hide_border=true" alt="Stats Soumia" />
+</div>
