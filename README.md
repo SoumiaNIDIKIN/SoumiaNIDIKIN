@@ -1,71 +1,119 @@
-<div align="center" style="background: linear-gradient(135deg, #fce4ec, #f3e5f5, #e1f5fe); padding: 50px 20px; border-radius: 20px; border: 1px solid #f8bbd0; margin-bottom: 30px;">
-    <h1 style="color: #880e4f; font-family: 'Georgia', serif; font-size: 3rem; margin: 0;">Soumia NIDIKIN 🌸</h1>
-    <p style="color: #4a148c; font-size: 1.5rem; font-style: italic; margin-top: 10px; font-weight: 300;">
-        Ingénieure Data | Experte en Automation RPA & Agents IA
-    </p>
-    <div style="margin-top: 20px;">
-        <a href="TON_LIEN_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-        <a href="mailto:TON_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    </div>
+<!--
+README GitHub Premium — Soumia NIDIKIN
+⚠️ Remplace "YOUR_GITHUB_USERNAME" par ton vrai username GitHub
+dans les sections Stats / Top Langages / Streak
+-->
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:FF4FA3,45:B76E79,100:5B2A86&text=Soumia%20NIDIKIN&fontColor=ffffff&fontSize=48&fontAlignY=40&desc=Data%20Engineer%20%7C%20RPA%20Expert%20%7C%20AI%20Agents%20Builder&descAlignY=60&animation=fadeIn" />
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=2800&pause=900&color=FF4FA3&center=true&vCenter=true&width=900&lines=Ing%C3%A9nieure+Data+sp%C3%A9cialis%C3%A9e+en+RPA+et+Agents+IA;Je+transforme+les+processus+manuels+en+syst%C3%A8mes+autonomes;Automation+%E2%80%A2+Data+Engineering+%E2%80%A2+Machine+Learning+%E2%80%A2+LLMs" alt="Typing SVG" />
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/soumia-nidikin-a42397299/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Soumia%20NIDIKIN-5B2A86?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:soumianidikin@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Pro-FF4FA3?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 </div>
 
-<h2 style="color: #ad1457; border-bottom: 2px solid #f8bbd0; padding-bottom: 10px;">✨ À propos de moi</h2>
-<p style="font-size: 1.1rem; line-height: 1.8; color: #424242;">
-    Passionnée par l'élégance de la donnée, je suis spécialisée dans la <b>transformation de processus manuels en systèmes autonomes et intelligents</b>. 
-    Mon travail consiste à concevoir des architectures de données robustes tout en intégrant des agents IA pour optimiser l'efficacité opérationnelle. 
-    Je combine une expertise en <b>Data Engineering</b> avec une vision <b>Data Science & Analysis</b> pour transformer chaque information en valeur stratégique.
+---
+
+<h1 align="center">✨ Hello, moi c’est Soumia NIDIKIN</h1>
+
+<p align="center">
+Ingénieure Data passionnée par <strong>l’automatisation intelligente</strong>, la <strong>RPA</strong> et le <strong>développement d’Agents IA</strong>.<br>
+Je conçois des solutions qui transforment des processus manuels en <strong>systèmes autonomes, robustes et scalables</strong>.<br>
+Mon terrain de jeu : <strong>la donnée, l’automatisation, l’intelligence artificielle et l’optimisation des opérations</strong>.
 </p>
 
-<blockquote style="background-color: #fff9f9; border-left: 5px solid #f06292; padding: 15px; font-style: italic; color: #880e4f; margin: 25px 0;">
-    "Ma vision : La donnée est une histoire qui ne demande qu'à être bien racontée par l'automatisation. Je bâtis les fondations de l'entreprise intelligente de demain."
-</blockquote>
+<div align="center">
 
-<h2 style="color: #ad1457; border-bottom: 2px solid #f8bbd0; padding-bottom: 10px;">🎨 Univers Technique</h2>
+> **Visionnaire, technique et orientée impact** — je construis des écosystèmes où la donnée alimente la décision, où l’automatisation libère du temps, et où les agents IA repoussent les limites de la performance.
 
-<table width="100%" style="border-collapse: collapse; border: none;">
-    <tr>
-        <td width="50%" style="vertical-align: top; border: none; padding: 10px;">
-            <h3 style="color: #6a1b9a;">🤖 Automatisation & RPA</h3>
-            <img src="https://img.shields.io/badge/Robot_Framework-000000?style=flat-square&logo=robotframework&logoColor=white" />
-            <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=microsoftpowerautomate&logoColor=white" />
-            <img src="https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white" />
-            <img src="https://img.shields.io/badge/UiPath-FA4616?style=flat-square&logo=uipath&logoColor=white" />
-        </td>
-        <td width="50%" style="vertical-align: top; border: none; padding: 10px;">
-            <h3 style="color: #6a1b9a;">🧠 Data Science & IA</h3>
-            <img src="https://img.shields.io/badge/Machine_Learning-3776AB?style=flat-square&logo=python&logoColor=white" />
-            <img src="https://img.shields.io/badge/NLP_&_LLMs-4B0082?style=flat-square" />
-            <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-        </td>
-    </tr>
-    <tr>
-        <td width="50%" style="vertical-align: top; border: none; padding: 10px;">
-            <h3 style="color: #6a1b9a;">🏗 Data Engineering</h3>
-            <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-            <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
-            <img src="https://img.shields.io/badge/ETL_/_DWH-FFD700?style=flat-square" />
-            <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-        </td>
-        <td width="50%" style="vertical-align: top; border: none; padding: 10px;">
-            <h3 style="color: #6a1b9a;">📊 Visualisation</h3>
-            <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=microsoftpowerbi&logoColor=black" />
-            <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
-            <img src="https://img.shields.io/badge/Excel_Expert-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
-        </td
-    </tr>
+</div>
+
+---
+
+## 💎 Positionnement
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 👩‍💻 Ce que je fais
+- Automatisation de processus métier de bout en bout
+- Développement de workflows RPA et no-code / low-code
+- Conception d’Agents IA orientés exécution et décision
+- Structuration de pipelines Data & ETL
+- Industrialisation de solutions analytiques
+
+  </td>
+  <td width="50%" valign="top">
+
+### 🚀 Ma signature
+- Penser **efficacité**
+- Construire **intelligent**
+- Déployer **utile**
+- Transformer **durablement**
+- Livrer avec une approche **expert + vision produit**
+
+  </td>
+  </tr>
 </table>
 
-<h2 style="color: #ad1457; border-bottom: 2px solid #f8bbd0; padding-bottom: 10px;">🎯 Mes Focus Actuels</h2>
-<ul style="font-size: 1.1rem; color: #424242; line-height: 2;">
-    <li>🚀 <b>IA Agents :</b> Développement de systèmes autonomes capables de prendre des décisions en temps réel.</li>
-    <li>🏗 <b>Modern Data Stack :</b> Optimisation de pipelines ETL vers des entrepôts de données cloud.</li>
-    <li>💡 <b>Process Mining :</b> Analyser les processus métiers pour identifier les opportunités d'automatisation.</li>
-</ul>
+---
 
-<hr style="border: 0; height: 1px; background: linear-gradient(to right, transparent, #f8bbd0, transparent); margin: 40px 0;">
+## ⚡ Stack Technologique
 
-<div align="center" style="color: #880e4f; font-family: sans-serif;">
-    <p>🌿 <b>Faisons grandir vos projets ensemble</b></p>
-    <p>📍 Basée au Maroc (Casablanca - Tanger)</p>
-    <img src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO_GITHUB&show_icons=true&theme=rose&hide_border=true" alt="Stats Soumia" />
-</div>
+### 🤖 Automatisation & RPA
+<p>
+  <img src="https://img.shields.io/badge/Robot%20Framework-5B2A86?style=for-the-badge&logo=robotframework&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20Automate-FF4FA3?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-B76E79?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/UiPath-8A2BE2?style=for-the-badge&logo=uipath&logoColor=white" />
+</p>
+
+### 🧠 Data Science & Intelligence Artificielle
+<p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF4FA3?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-5B2A86?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-B76E79?style=for-the-badge&logo=spacy&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMs%20%26%20AI%20Agents-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
+### 🗄️ Data Engineering
+<p>
+  <img src="https://img.shields.io/badge/SQL%20Server-5B2A86?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-FF4FA3?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-B76E79?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/DWH-8A2BE2?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/ETL-5B2A86?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+</p>
+
+### 🐍 Langages & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Python-FF4FA3?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-B76E79?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-5B2A86?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-8A2BE2?style=for-the-badge&logo=linux&logoColor=white" />
+</p>
+
+### 📊 Visualisation
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-FF4FA3?style=for-the-badge&logo=powerbi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-5B2A86?style=for-the-badge&logo=tableau&logoColor=white" />
+</p>
+
+---
+
+## 🌌 Mon univers professionnel
+
+```text
+Data + Automation + AI = des systèmes plus rapides, plus fiables et plus intelligents
